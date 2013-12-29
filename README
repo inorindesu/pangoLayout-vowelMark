@@ -1,0 +1,16 @@
+This program is written to investigate if PangoLayout can be used
+when I wish to mark a tibetan vowel as red text.
+
+I used 2 ways:
+
+  1. markup
+  2. PangoAttribute
+
+Both of the ways seems failed: both the vowel and consonants were
+marked in resulted pdf file.
+
+If you think I made a mistake, just tell me. I'd be happy to hear :)
+
+
+"So dear students, the vowel 'naro' looks like the red part ... wait, there's
+something wrong..."
